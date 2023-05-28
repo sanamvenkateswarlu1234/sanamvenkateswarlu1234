@@ -22,7 +22,7 @@ char numstr[100];
 system("cls");
 printf("=== TRAIN RESERVATION SYSTEM ===\n");//for entering train number
 train();//for seeing train least
-printf("Enter the Bus number:--->");
+printf("Enter the Train number:--->");
 scanf("%d",&trno);
 system("cls");
 printf("== TRAIN RESERVATION SYSTEM ==\n");//for selecting coach
