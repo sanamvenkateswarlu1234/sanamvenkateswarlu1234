@@ -42,20 +42,3 @@ getch();
     getch();
     return 0;
 }
-
-
-void bus()
-{
-    system("cls");
-    printf("\n\n\n");
-    printf("=========================================== BUS RESERVATION SYSTEM ============================================\n\n\n");
-    printf("\t\t\t\t\t[1]  =>  %s\n",ch[0]);
-    printf("\n");
-    printf("\t\t\t\t\t[2]  =>  %s\n",ch[1]);
-    printf("\n");
-	printf("\t\t\t\t\t[3]  =>  %s\n",ch[2]);
-    printf("\n");
-	printf("\t\t\t\t\t[4]  =>  %s\n",ch[3]);
-    printf("\n");
-	printf("\t\t\t\t\t[5]  =>  %s\n",ch[4]);
-}
