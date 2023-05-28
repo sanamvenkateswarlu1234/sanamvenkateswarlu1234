@@ -3,7 +3,7 @@ char name[32][100]={'\0'};
 char number[32][2]={'\0'};
 int num1[32]={0};
 int trno;
-void bus();//for list of train
+void train();//for list of train
 void name_number(int booking,char numstr[100]);
 void booking();//for booking the tickets
 int read_number(int trno);//for reading the number from the file
