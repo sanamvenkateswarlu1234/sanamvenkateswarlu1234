@@ -14,7 +14,7 @@ int main()
     do{
     system("cls");
     printf("\n\n\n");
-   printf("====================================== WELCOME TO BUS RESERVATION SYSTEM ======================================\n\n\n");
+   printf("====================================== WELCOME TO TRAIN RESERVATION SYSTEM ======================================\n\n\n");
     printf("\t\t\t\t\t[1]=> View Bus List\n");
     printf("\n");
     printf("\t\t\t\t\t[2]=> Book Tickets\n");
