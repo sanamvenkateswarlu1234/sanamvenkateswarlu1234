@@ -21,7 +21,7 @@ int main()
     switch(num)
     {
     case 1:
-        bus();
+        train();
         break;
     case 2:
         booking();
